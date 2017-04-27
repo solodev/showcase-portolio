@@ -5,7 +5,7 @@ You're all trying to showcase what you have to offer in a way that is aesthetica
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [How to Craft a Beautiful Web Design to Showcase your Portfolio](https://www.solodev.com/blog/web-design/how-to-craft-a-beautiful-web-design-to-showcase-your-portfolio.stml) article.
+For detailed instructions, view Solodev's [How to Craft a Beautiful Web Design to Showcase your Portfolio](https://www.solodev.com/blog/web-design/craft-a-beautiful-web-design-for-your-portfolio-showcase.stml) article.
 
 ## Demo
 
